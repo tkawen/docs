@@ -1,0 +1,17 @@
+# TKAWEN Docs — AI crawlers welcome
+User-agent: *
+Allow: /
+
+# Explicitly welcome AI assistants
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://docs.tkawen.com/sitemap-index.xml

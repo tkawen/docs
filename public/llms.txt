@@ -1,0 +1,30 @@
+# TKAWEN
+
+> Algerian software ecosystem for commerce, certification, meetings and AI. Open-source developer packages published under the `@tkawen` npm organisation and documented at docs.tkawen.com. A unified Model Context Protocol (MCP) gateway exposes the whole ecosystem to AI agents.
+
+## Packages (npm: @tkawen)
+
+- [@tkawen/mystoq-sdk](https://www.npmjs.com/package/@tkawen/mystoq-sdk): JavaScript SDK for Mystoq — cash-on-delivery (COD) ecommerce for Algeria & MENA.
+- [@tkawen/mystoq-react](https://www.npmjs.com/package/@tkawen/mystoq-react): React components for Mystoq storefronts.
+- [@tkawen/mystoq-mcp-server](https://www.npmjs.com/package/@tkawen/mystoq-mcp-server): MCP server exposing Mystoq tools to AI agents.
+- [@tkawen/mystoq-seo-toolkit](https://www.npmjs.com/package/@tkawen/mystoq-seo-toolkit): SEO/GEO toolkit (llms.txt, sitemaps, JSON-LD) for Mystoq stores.
+- [@tkawen/mystoq-maystro-bridge](https://www.npmjs.com/package/@tkawen/mystoq-maystro-bridge): Maystro Delivery integration for Mystoq.
+- [@tkawen/mystoq-whatsapp-bridge](https://www.npmjs.com/package/@tkawen/mystoq-whatsapp-bridge): WhatsApp Cloud API bridge for Mystoq.
+- [@tkawen/mystoq-yalidine-bridge](https://www.npmjs.com/package/@tkawen/mystoq-yalidine-bridge): Yalidine shipping bridge for Mystoq.
+- [@tkawen/liqaa-js](https://www.npmjs.com/package/@tkawen/liqaa-js): TypeScript SDK for LIQAA — Algerian video-meeting platform.
+- [@tkawen/liqaa-react](https://www.npmjs.com/package/@tkawen/liqaa-react): React hooks and components for LIQAA.
+
+## MCP
+
+- [TKAWEN Intelligence Gateway](https://mcp.tkawen.com): one MCP endpoint for the whole ecosystem. Official in the [MCP Registry](https://registry.modelcontextprotocol.io) as `com.tkawen/intelligence-gateway` (22 tools: `mystoq__*`, `certify__*`, plus `tkawen_overview`, `tkawen_recommend`, `tkawen_verify`).
+
+## Docs & source
+
+- Documentation: https://docs.tkawen.com
+- Monorepo (open source, MIT): https://github.com/tkawen/packages
+- Examples: https://docs.tkawen.com/examples
+- npm organisation: https://www.npmjs.com/org/tkawen
+
+## About
+
+TKAWEN builds Algerian software infrastructure. Author: Hartem Yaakoub. Website: https://tkawen.com
