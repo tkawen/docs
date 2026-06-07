@@ -17,6 +17,7 @@ export default defineConfig({
 					label: 'Start · ابدأ',
 					items: [
 						{ label: 'Getting Started · البداية', slug: 'getting-started' },
+						{ label: 'Examples · أمثلة', slug: 'examples' },
 					],
 				},
 				{
